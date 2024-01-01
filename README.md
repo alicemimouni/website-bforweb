@@ -14,7 +14,7 @@ Le site web bforweb est le site web de mon activité de développeur web freelan
 
 ## Technologies utilisées
 
-Ce site est à la base réalisé simplement sans framework, puisque c'est un site vitrine simple, j'ai utilisé HTML, CSS, Sass, PHP et JavaScript. Cependant, pour sa refonte, j'ai utilisé Symfony puisque je vais stocker mes projets en base de données. Le site posède également un blog qui est à la base réalisé à part avec le framework Symfony. Je souhaite relier les deux dans un seul projet Symfony.
+Ce site est à la base réalisé simplement sans framework, puisque c'est un site vitrine simple, j'ai utilisé HTML, CSS, Sass, PHP et JavaScript. Cependant, pour sa refonte, j'ai utilisé Symfony souhaitant stocker mes projets en base de données. Le site possède également un blog qui est, à la base, réalisé à part avec le framework Symfony. Je souhaite relier les deux dans un seul projet Symfony.
 
 ## Conclusion
 
