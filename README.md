@@ -4,8 +4,9 @@
 Ce site web est en cours de refonte, la nouvelle version sera bientôt en ligne.
  [VOIR L'ANCIENNE VERSION EN LIGNE](https://bforweb.fr)
 
- En attendant, voici la maquette : 
+ En attendant, voici la maquette de la prochaine version : 
  
+![Maquette nouvelle version](https://github.com/alicemimouni/website-bforweb/blob/main/maquette-bforweb-website-2024.gif)
 
 ## Présentation
 
