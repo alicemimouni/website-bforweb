@@ -5,6 +5,7 @@
 
 Ce site web est le site vitrine de mon activité de développeur web freelance, il est accompagné d'un blog contenant des articles sur le thème du web.
  [VOIR LE SITE EN LIGNE](https://bforweb.fr)
+![Capture d’écran (50)](https://github.com/alicemimouni/website-bforweb/assets/82211729/e6991d7b-1a81-4b3c-89c4-d74818020977)
 
 ## Technologies utilisées
 
