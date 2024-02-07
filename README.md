@@ -1,23 +1,17 @@
 
  # SITE WEB BFORWEB
 
-Ce site web est en cours de refonte, la nouvelle version sera bientôt en ligne.
- [VOIR L'ANCIENNE VERSION EN LIGNE](https://bforweb.fr)
-
- En attendant, voici la maquette de la prochaine version : 
- 
-![Maquette nouvelle version](https://github.com/alicemimouni/website-bforweb/blob/main/maquette-bforweb-website-2024.gif)
-
 ## Présentation
 
-Le site web bforweb est le site web de mon activité de développeur web freelance, je propose mes services de création d'applications web sur mesure. Je suis en début d'activité, je travaille sur la création d'un CMS maison que je réalise avec Symfony. Le but étant de proposer au clients une interface d'administration semblable à WordPress, mais plus sécurisée et que je maîtrise pleinement.
+Ce site web est le site vitrine de mon activité de développeur web freelance, il est accompagné d'un blog contenant des articles sur le thème du web.
+ [VOIR LE SITE EN LIGNE](https://bforweb.fr)
 
 ## Technologies utilisées
 
-Ce site est à la base réalisé simplement sans framework, puisque c'est un site vitrine simple, j'ai utilisé HTML, CSS, Sass, PHP et JavaScript. Cependant, pour sa refonte, j'ai utilisé Symfony souhaitant stocker mes projets en base de données. Le site possède également un blog qui est, à la base, réalisé à part avec le framework Symfony. Je souhaite relier les deux dans un seul projet Symfony.
+J'ai choisi le framework Symfony pour ce projet, le site contenant un blog, c'est l'outil idéal. J'ai utilisé MySQL pour la base de données. Côté frontend, j'ai intégré la maquette que j'ai réalisé avec Figma, directement dans Symfony. J'utilise Sass, pour mieux organiser mon CSS. J'ai réalisé les animations en JavaScript essentiellement.
 
 ## Conclusion
 
-Cette nouvelle version m'a permis d'améliorer le design, le contenu et de mettre à jour le blog. Prochainement, vous pourrez consulter en ligne le résultat !
+C'est un bon projet, qui m'a permis de monter en compétence avec mon framework favori. 
 
  
