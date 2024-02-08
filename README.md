@@ -11,7 +11,7 @@ Ce site web est le site vitrine de mon activité de développeur web freelance, 
 
 ## Technologies utilisées
 
-J'ai choisi le framework Symfony pour ce projet, le site contenant un blog, c'est l'outil idéal. J'ai utilisé MySQL pour la base de données. Côté frontend, j'ai intégré la maquette que j'ai réalisé avec Figma, directement dans Symfony. J'utilise Sass, pour mieux organiser mon CSS. J'ai réalisé les animations en JavaScript essentiellement.
+J'ai choisi le framework **Symfony** pour ce projet, le site contenant un blog, c'est l'outil idéal. J'ai utilisé **MySQL** pour la base de données. Côté frontend, j'ai intégré la maquette que j'ai réalisé avec **Figma**, directement dans Symfony. J'utilise **Sass**, pour mieux organiser mon CSS. J'ai réalisé les animations en **JavaScript** essentiellement.
 
 ## Conclusion
 
