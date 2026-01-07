@@ -1,11 +1,11 @@
 
- # SITE WEB BFORWEB
+ # Site web Bforweb
 
 ## Présentation
 
-Créé en 2023, ce site web est le premier site vitrine de mon activité de développeur web freelance, il est accompagné d'un blog contenant des articles sur le thème du web.
+Ce site web est le premier site de Bforweb, société de conception de solutions web que j'ai créé en 2023.
+Il est accompagné d'un blog contenant des articles sur le thème du web.
 
- 
 ![Capture d’écran (50)](https://github.com/alicemimouni/website-bforweb/assets/82211729/e6991d7b-1a81-4b3c-89c4-d74818020977)
 
 ## Technologies utilisées
